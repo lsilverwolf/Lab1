@@ -6,5 +6,7 @@
     <string name="hello_world">Hello world!</string>
     <string name="button_label">Submit</string>
     <string name="hint_text">Add a new task</string>
+    <string name="a_value">EditText</string>
+    <string name="delete_button">Delete</string>
 
 </resources>

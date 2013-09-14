@@ -30,7 +30,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="@string/button_label"
-                android:id="@+id/button2"
+                android:id="@+id/button"
                 />
 
     </LinearLayout>
@@ -40,5 +40,6 @@
             android:layout_height="wrap_content"
             android:id="@+id/listView"
             android:layout_gravity="center_horizontal|bottom"/>
+
 
 </LinearLayout>
